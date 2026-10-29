@@ -60,7 +60,8 @@ What the app renders today. Home owns the latest result; the form owns its own i
 <img width="600" height="777" alt="image" src="https://github.com/user-attachments/assets/4f98655b-08a5-468b-ad7b-629f62194195" />
 
  3.State ownership
- <img width="662" height="471" alt="image" src="https://github.com/user-attachments/assets/0c876d46-1851-4a4c-a317-d18b1e8f0352" />
+ 
+<img width="662" height="471" alt="image" src="https://github.com/user-attachments/assets/0c876d46-1851-4a4c-a317-d18b1e8f0352" />
 
 <img width="525" height="443" alt="image" src="https://github.com/user-attachments/assets/f05e9082-ffd2-4cf4-ae8a-bbd0c67971df" />
 
